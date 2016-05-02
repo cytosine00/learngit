@@ -4,3 +4,4 @@ added the third line.
 Git tracks changes of files.
 Now changed.
 Added a new branch.
+Creating a new branch is quick & simple.
